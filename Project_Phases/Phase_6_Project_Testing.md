@@ -9,15 +9,15 @@
 
 
 - *Date:* 29 September 2026
-- *Team ID:* 10
+- *Team ID:* 12
 - *Project Name:* EDUGENIE: GOOGLE GEMINI POWERED LEARNING ASSISSTANT
 - *Maximum Marks:* 3 Marks
 
 ---
 
-## Step 6: Project Testing
+## Step 1: Brainstorm and Idea Listing
+
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
-| 1 |Saranraj K | Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 10 |
-| 2 | Sharan Akash K | Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 10 |
-| 3 | Santhosh M | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 10 |
+| 1 |akshaya | Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 12 |
+| 2 | yuvasri | Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 12 |
